@@ -1,0 +1,55 @@
+[
+  {
+    "name": "#1098",
+    "customer": "Mariana Costa",
+    "status": "paid",
+    "channel": "Loja online",
+    "total": 1280.8,
+    "items": [
+      { "sku": "SKU-1001", "name": "Kit onboarding TI", "quantity": 1, "unitPrice": 890.9 },
+      { "sku": "SKU-1002", "name": "Suporte remoto mensal", "quantity": 1, "unitPrice": 389.9 }
+    ]
+  },
+  {
+    "name": "#1097",
+    "customer": "Felipe Andrade",
+    "status": "pending",
+    "channel": "Shopify POS",
+    "total": 449.9,
+    "items": [
+      { "sku": "SKU-1004", "name": "Licenca ERP", "quantity": 1, "unitPrice": 449.9 }
+    ]
+  },
+  {
+    "name": "#1096",
+    "customer": "Camila Souza",
+    "status": "paid",
+    "channel": "Loja online",
+    "total": 1790.7,
+    "items": [
+      { "sku": "SKU-1003", "name": "Access point corporativo", "quantity": 2, "unitPrice": 570.4 },
+      { "sku": "SKU-1002", "name": "Suporte remoto mensal", "quantity": 1, "unitPrice": 649.9 }
+    ]
+  },
+  {
+    "name": "#1095",
+    "customer": "Bruno Lima",
+    "status": "refunded",
+    "channel": "Marketplace",
+    "total": 299.9,
+    "items": [
+      { "sku": "SKU-1005", "name": "Cabo de rede CAT6", "quantity": 3, "unitPrice": 99.96 }
+    ]
+  },
+  {
+    "name": "#1094",
+    "customer": "Renata Alves",
+    "status": "paid",
+    "channel": "Loja online",
+    "total": 980.0,
+    "items": [
+      { "sku": "SKU-1003", "name": "Access point corporativo", "quantity": 1, "unitPrice": 570.4 },
+      { "sku": "SKU-1004", "name": "Licenca ERP", "quantity": 1, "unitPrice": 409.6 }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+[
+  { "sku": "SKU-1001", "name": "Kit onboarding TI", "stock": 8, "reorderPoint": 5 },
+  { "sku": "SKU-1002", "name": "Suporte remoto mensal", "stock": 3, "reorderPoint": 5 },
+  { "sku": "SKU-1003", "name": "Access point corporativo", "stock": 4, "reorderPoint": 5 },
+  { "sku": "SKU-1004", "name": "Licenca ERP", "stock": 25, "reorderPoint": 5 },
+  { "sku": "SKU-1005", "name": "Cabo de rede CAT6", "stock": 2, "reorderPoint": 5 }
+]

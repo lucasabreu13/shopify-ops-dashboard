@@ -1,0 +1,18 @@
+{
+  "name": "shopify-ops-dashboard",
+  "version": "1.0.0",
+  "description": "Painel operacional para acompanhar pedidos, estoque e indicadores de e-commerce.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ecommerce",
+    "dashboard",
+    "javascript",
+    "bootstrap"
+  ],
+  "author": "Lucas Abreu Pedro",
+  "license": "MIT"
+}
